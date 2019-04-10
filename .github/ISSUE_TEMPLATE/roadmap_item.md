@@ -1,8 +1,12 @@
 ---
 name: Roadmap suggestion
 about: Create a roadmap/todo suggestion item (Team Kodi members only!)
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 <!--- Please fill out this template to the best of your ability. You can always edit this issue once you have created it. -->
 ## Roadmap or todo suggestion
 **Detailed Description**
